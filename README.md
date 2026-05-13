@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nispal Thapa 👋<br><br>Ethical Hacking & Cybersecurity student passionate about DevOps, Linux, automation, and security. I enjoy building secure systems, learning cloud technologies, and exploring both offensive and defensive cybersecurity.<br><br>🔭 I’m currently working on<br><br>Cybersecurity & automation projects<br>Linux system administration<br>Building DevOps skills<br><br>🌱 I’m currently learning<br><br>AWS & Cloud Computing<br>Cloud Security<br>Automation
+Hi, I'm Nispal Thapa 👋<br><br>Ethical Hacking & Cybersecurity student passionate about AI, DevOps, Linux, automation, and security. I enjoy building secure systems, learning cloud technologies, and exploring both offensive and defensive cybersecurity.<br><br>🔭 I’m currently working on<br><br>Cybersecurity & automation projects<br>AI agents for automation<br>Building DevOps skills<br><br>🌱 I’m currently learning<br><br>AWS & Cloud Computing<br>Cloud Security<br>Automation
 
 
 ## 🌐 Socials:
